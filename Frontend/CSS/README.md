@@ -7,7 +7,7 @@
 >IntegradoraI-NombreProyecto<br>
 >| - Backend <br>
 >| - Database<br>
->  **- FrontEnd**
+>**|- FrontEnd**<br>
 >&nbsp;&nbsp;|- CSS<br>
 >&nbsp;&nbsp;|- Assets<br>
 >| - Documentation<br>
@@ -18,4 +18,4 @@
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |✅ Revisado y aprobado.|
-|Adrian Perez Jimenz |[@heidrihen52](https://github.com/heidrihen52)|Desarrollador Frontend|✅ Revisado y aprobado.|
+|Adrian Perez Jimenez |[@heidrihen52](https://github.com/heidrihen52)|Desarrollador Frontend|✅ Revisado y aprobado.|

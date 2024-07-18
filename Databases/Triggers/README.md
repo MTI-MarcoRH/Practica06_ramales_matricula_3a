@@ -5,7 +5,15 @@ En esta sección se encontrarán todos los archivos referentes a la base de dato
 ## Estructura de Archivos
 
 > IntegradoraI-NombreProyecto<br>
-> | - Backend <br> >**| - Database**<br> >&nbsp;&nbsp;|- Backups<br> >&nbsp;&nbsp;|- Data Dictionary<br> >&nbsp;&nbsp;|- Diagrams<br> >&nbsp;&nbsp;|- Queries<br> >&nbsp;&nbsp;|- Scripts<br> >&nbsp;&nbsp;**|- Triggers**<br> >&nbsp;&nbsp;|- USPs<br>
+> | - Backend <br> 
+> | - Database<br>
+> &nbsp;&nbsp;|- Backups<br>
+> &nbsp;&nbsp;|- Data Dictionary<br>
+> &nbsp;&nbsp;|- Diagrams<br>
+> &nbsp;&nbsp;|- Queries<br>
+> &nbsp;&nbsp;|- Scripts<br>
+> &nbsp;&nbsp;|- **Triggers**<br>
+> &nbsp;&nbsp;|- USPs<br>
 > | - Documentation<br>
 > | - FrontEnd
 
@@ -14,4 +22,4 @@ En esta sección se encontrarán todos los archivos referentes a la base de dato
 | Integrante                        | Contacto                                       | Rol                           | Observaciones           |
 | --------------------------------- | ---------------------------------------------- | ----------------------------- | ----------------------- |
 | Al Farias Leyva                   | [@fariasdsm](https://github.com/fariasdsm)     | Líder de desarrollo Front End | ✅ Revisado y aprobado. |
-| M.T.I. Marco A. Ramírez Hernández | [@MTI-MarcoRH](https://github.com/MTI-MarcoRH) | Líder de Desarrollo Backend   | 🟠 No ha revisado.      |
+| M.T.I. Marco A. Ramírez Hernández | [@MTI-MarcoRH](https://github.com/MTI-MarcoRH) | Líder de Desarrollo Backend   |🛠️Tenias errores en la Estructura de Carpetas |

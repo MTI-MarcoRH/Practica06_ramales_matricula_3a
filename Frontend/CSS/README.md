@@ -17,5 +17,5 @@
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |✅ Revisado y aprobado.|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo Backend||✅ Revisado y aprobado (9/10)|
 |Adrian Perez Jimenez |[@heidrihen52](https://github.com/heidrihen52)|Desarrollador Frontend|✅ Revisado y aprobado.|

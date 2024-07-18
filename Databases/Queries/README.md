@@ -23,4 +23,4 @@ Se muestran las consultas SQL más comunes, incluidas las operaciones **SELECT**
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Michelle Castro Otero|[@Ktmich2095](https://github.com/Ktmich2095)|Líder del Desarrollo Backend |✅ Revisado y aprobado.|
-|M.T.I Marco A. Ramírez Hernández |[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Desarrollo Frontend|😔 No ha revisado|
+|M.T.I Marco A. Ramírez Hernández |[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Desarrollo Frontend|✅ Revisado y aprobado. (9/10)|

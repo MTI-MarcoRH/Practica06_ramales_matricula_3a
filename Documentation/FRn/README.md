@@ -30,4 +30,4 @@
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Jonathan Emmanuel López Morales|Jonathan Emmanuel López Morales [@Jonathan2536](https://github.com/Jonathan2536)|Líder de Requerimientos no Funcionales|✅ Revisado y aprobado.|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Documentador|😐 No ha revisado.|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Documentador|✅ Revisado y aprobado. (9/|10 Firmas)|

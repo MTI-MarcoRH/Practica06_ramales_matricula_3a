@@ -24,5 +24,5 @@ El proceso de conexión se lleva a cabo con la función `mysqli_connect`, que to
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |😔 No ha revisado|
+|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |✅ Revisado y aprobado. (Firmas 10/10)|
 |Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador Frontend|✅ Revisado y aprobado|

@@ -1,4 +1,4 @@
-# Requerimientos no Funcionales ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+# Requerimientos no Funcionales ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
  En la carpeta de Documentacion se creo la Carpeta de FRn todo esto para mostrar los requerimientos no funcionales

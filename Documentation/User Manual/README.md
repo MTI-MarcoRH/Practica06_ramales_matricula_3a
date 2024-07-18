@@ -1,4 +1,4 @@
-# User Manual  ![PHP](https://img.shields.io/badge/PHP-777BB4?)
+# User Manual  ![User Manual](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
  En esta sección se encontrarán los archivos de código fuente que dan la funcionalidad operativa a la aplicación web, además de la conexión y configuración a la Base de Datos Relacional (SQL) que permitirá la persistencia de los datos recolectados. 
 

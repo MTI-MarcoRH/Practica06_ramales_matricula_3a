@@ -19,6 +19,4 @@
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo Backend|✅ Revisado y aprobado.|
-|Fulanito de Tal|[@GitUser](https://github.com/GitUser)|Desarrollador Backend|❌ Hay errores en el código, no aprobado.|
-|Fulanito de Tal|[@GitUser](https://github.com/GitUser)|Desarrollador Backend|✅|
-|Fulanito de Tal|[@GitUser](https://github.com/GitUser)|Desarrollador Backend|✅|
+|  Sayurid Bautista Cruz [@sayuridbc](https://github.com/sayuridbc)|Desarrollador Backend|❌ Hay errores en el código, no aprobado.|

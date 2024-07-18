@@ -17,7 +17,7 @@ En este apartado veremos representaciones graficas e interactivas de un diseño
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Brisa Nallely Garcia Gregorio |[@BrisGregorio](https://github.com/Brisgregorio)|Lider de Estructurado de Mockups|✅ Revisado y aprobado.|
-|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Estructurador de Mockups |😔 No ha revisado|
+|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Estructurador de Mockups |✅ Revisado y aprobado. (Firmas 10/10) |
 
 
 

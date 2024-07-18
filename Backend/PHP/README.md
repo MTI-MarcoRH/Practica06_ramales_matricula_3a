@@ -18,4 +18,4 @@ En esta carpeta encontraras archivos relacionados con PHP como ejemplo de lo que
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Luis Daniel Suarez Escamilla |[@Danny88e](https://github.com/Danny88e)|Desarrollador Backend|✅ Revisado y aprobado.|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo Backend|😒 No revisado.|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo Backend|✅ Revisado y aprobado. (Firmas 10/10)|

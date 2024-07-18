@@ -24,5 +24,5 @@
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |✅ Revisado y aprobado. (Firmas 10/10)|
+|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |✅ Revisado y aprobado. (Firmas 09/10)|
 |Angel de Jesus Baños Tellez |[@angelJesus13](https://github.com/angelJesus13)|Desarrollador de Base de Datos|✅ Revisado y aprobado.|

@@ -14,5 +14,5 @@ En esta carpeta de  contiene los elementos necesarios para definir, mantener y a
 
 | Integrante                            | Contacto                                           | Rol                    | Observaciones     |
 | ------------------------------------- | -------------------------------------------------- | ---------------------- | ----------------- |
-| M.T.I. Marco Antnio Ramírez Hernández | [@MTI-MarcoRH](https://github.com/MTI-MarcoRH)     | Líder de Documentacion | 😔 No ha revisado |
-| Erick Matias Granillo Mejia                    | [@EMATIAS230045](https://github.com/EMATIAS230045) | Documentador           | ❌ No revisado    |
+| M.T.I. Marco Antnio Ramírez Hernández | [@MTI-MarcoRH](https://github.com/MTI-MarcoRH)     | Líder de Documentacion | ✅ Revisado y aprobado. (Firmas 9/10) |
+| Erick Matias Granillo Mejia                    | [@EMATIAS230045](https://github.com/EMATIAS230045) | Documentador           | ✅ Revisado y aprobado.  |

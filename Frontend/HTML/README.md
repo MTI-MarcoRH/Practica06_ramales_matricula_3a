@@ -18,5 +18,5 @@
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |😔 No ha revisado|
+|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |Revisado 8/10 Firmas |
 |Diego Miguel Rivera Chávez|[@DiegoMiguel04](https://github.com/DiegoMiguel04)|Desarrollador Frontend|✅ Revisado y aprobado|

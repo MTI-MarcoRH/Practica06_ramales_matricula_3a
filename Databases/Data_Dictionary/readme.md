@@ -22,4 +22,4 @@ En esta seccion se ingresara el archivo que contiene la informacion referente al
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Jennifer Bautista Barrios|[@hJenniferBautistaBarrios](https://github.com/JenniferBautistaBarrios)|Encargada de Data Dictionary|✅ Revisado y aprobado.|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo Backend|😐 Estatus sin revisar.|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo Backend||✅ Revisado y aprobado (10/10)|

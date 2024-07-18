@@ -24,4 +24,4 @@
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Jesús Domínguez Ramírez|[@hesuh05](https://github.com/hesuh05)|Líder de Documentación|✅ Revisado y aprobado.|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo Backend|😐 No ha revisado.|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo Backend||✅ Revisado y aprobado (10/10)|

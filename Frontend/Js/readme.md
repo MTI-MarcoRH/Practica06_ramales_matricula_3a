@@ -24,5 +24,5 @@ Lo que pasa en este programa es una explicacion breve sobre los tipos de datos d
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |😔 No ha revisado|
+|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |✅ Revisado y aprobado. (Firmas 9/10) |
 |Christian Paul Rodriguez Perez|[@ChrisPau0530](https://github.com/ChrisPau0530)|Desarrollador Frontend|✅ Revisado y aprobado| 

@@ -25,4 +25,4 @@ Documentar una base de datos implica crear un registro detallado de su estructur
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Teresa Vargas Fernández|[@TereVaFer](https://github.com/TereVaFer)|Líder de Documentación de Base de Datos|✅ Revisado y aprobado.|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Documentador|😐 No ha revisado.|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Documentador|✅ Revisado y aprobado (Firmas 10/10)|

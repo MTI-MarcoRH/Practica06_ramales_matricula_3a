@@ -20,5 +20,5 @@ En esta carpeta de wireframes se organizan y almacenan las representaciones visu
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Documentacion |😔 No ha revisado|
-|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Documentador|❌ No revisado|
+|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Documentacion |✅ Revisado y aprobado (Firmas 9/10)|
+|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Documentador|✅ Revisado y aprobado.|

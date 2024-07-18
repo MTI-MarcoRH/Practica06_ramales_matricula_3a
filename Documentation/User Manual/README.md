@@ -22,5 +22,5 @@
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|MTI-Marco Antonio Ramirez Hernandez|[@EMATIAS230045](https://github.com/EMATIAS230045)|Líder de Documentation| ✅ Revisado y aprobado.|
+|MTI-Marco Antonio Ramirez Hernandez|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Documentation| ✅ Revisado y aprobado.|
 |Citlalli Pérez Dionicio|[@KouDionicio](https://github.com/KouDionicio)|Desarrollador de Documentación|❌ No revisado.|

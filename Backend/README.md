@@ -18,5 +18,5 @@
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo Backend|✅ Revisado y aprobado.|
-|  Sayurid Bautista Cruz [@sayuridbc](https://github.com/sayuridbc)|Desarrollador Backend|❌ Hay errores en el código, no aprobado.|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo Backend|✅ Revisado y aprobado. (Firmas 8/10)|
+|  Sayurid Bautista Cruz| [@sayuridbc](https://github.com/sayuridbc)|Desarrollador Backend|✅ Revisado y aprobado.|

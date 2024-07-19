@@ -28,5 +28,5 @@ En este apartado se colocara lo que es el apartado de la instalacion manual.
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |😔 No ha revisado|
+|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |✅ Revisado y aprobado (Firmas 10/10)|
 |Edwin Hernandez Campos|[@Edwincamp](https://github.com/Edwincamp)|Desarrollador Documentación|✅ Revisado y aprobado|

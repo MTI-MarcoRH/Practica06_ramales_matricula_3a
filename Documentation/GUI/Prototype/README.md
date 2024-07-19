@@ -18,4 +18,4 @@ En esta sección, podrás acceder a los archivos de estilo que dan forma y perso
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Carlos Daniel Garcia Pluma |[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Lider del Diseñado de Prototipos|✅ Revisado y aprobado.|
-|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Diseñador de prototipos |😔 No ha revisado|
+|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Diseñador de prototipos |✅ Revisado y aprobado. (Firmas 9/10)|

@@ -19,8 +19,5 @@
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|M.T.I. Marco Antonio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |✅ Revisado y aprobado.|
-|Dulce Yadira Salvador Antonio|[@Dul220509](https://github.com/Dul220509)|Documentacion|😔 No se ha revisado|
-|Sayurid Bautista Cruz|[@Sayuridbc](https://github.com/sayuridbc)|Desarrollador FrontEnd|😔No ha revisado|
-|José Arturo Garcia González|[@ppyo1234](https://github.com/ppyo1234)|Desarrollador BackEnd|😔 no ha revisado|
-Carlos Daniel Garcia Pluma| [@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Desarrollador Database|😔 no ha revisado|
+|M.T.I. Marco Antonio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del  Desarrollo Frontend |✅ Revisado y aprobado. Firmas (8/10)|
+|Dulce Yadira Salvador Antonio|[@Dul220509](https://github.com/Dul220509)|Documentacion|✅ Revisado y aprobado.|

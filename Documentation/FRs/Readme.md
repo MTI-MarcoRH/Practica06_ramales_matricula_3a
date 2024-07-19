@@ -30,4 +30,4 @@
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |José Arturo Garcia González|[@ppyo123](https://github.com/ppyo123)|Líder de Requerimientos Funcionales|✅ Revisado y aprobado.|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Documentador|😐 No ha revisado.|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Documentador|✅ Revisado y aprobado. (Firmas 9/10)|

@@ -7,11 +7,11 @@
 >IntegradoraI-Practica06_Ramales<br>
 >| - Backend <br>
 >| - Database<br>
->| **-FrontEnd**
->&nbsp;&nbsp;|-Assets
->&nbsp;&nbsp;|-CSS
->&nbsp;&nbsp;|-HTML
->&nbsp;&nbsp;|-JS
+>| **-FrontEnd** <br>
+>&nbsp;&nbsp;|-Assets <br>
+>&nbsp;&nbsp;|-CSS <br>
+>&nbsp;&nbsp;|-HTML <br>
+>&nbsp;&nbsp;|-JS <br>
 >| - Documentation<br>
 
 

@@ -13,8 +13,12 @@ Cada carpeta de sketch contiene los archivos necesarios para ejecutar y comprend
 >| - Database<br>
 >| **Documentation** <br>
 >&nbsp;&nbsp;| - GUI <br>
+>&nbsp;&nbsp;&nbsp;&nbsp;| - Mockups<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;| - Prototype<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;| - Sitemap<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;| - Sketches<br>
->&nbsp;&nbsp;|- Stkeches
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - Readme de Sketches<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;| - Wireframes<br>
 
 
 
@@ -23,10 +27,7 @@ Cada carpeta de sketch contiene los archivos necesarios para ejecutar y comprend
 ¡Las contribuciones son bienvenidas! Si tienes algún sketch que te gustaría compartir o mejorar, siéntete libre de hacer un pull request. Asegúrate de seguir las pautas de contribución y proporcionar una breve descripción del sketch añadido.
 
 ## EQUIPO DE TRABAJO 
-|Integrante|Contacto|Rol|Obser
-
-
-
+|Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|M.T.I. Marco Antnio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Proyecto |✅ Revisado y aprobado. (Firmas 7/10)|
-|Yazmin Gutierrez Hernandez |[@YazUtxj](https://github.com/YazUtxj)|Desarrollador De Sketches|✅ Revisado y aprobado.|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Maestro  |✅ Revisado y aprobado.|
+|Yazmin Gutierrez Hernandez|[@YazUtxj](https://github.com/@azUtxj)|Documentador De Sketches|✅ Revisado y aprobado . 7 de 10|
